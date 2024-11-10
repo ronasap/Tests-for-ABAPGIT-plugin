@@ -10,8 +10,6 @@ CLASS zcl_testsimpleclass_btp DEFINITION
   PRIVATE SECTION.
 ENDCLASS.
 
-
-
 CLASS zcl_testsimpleclass_btp IMPLEMENTATION.
 
 
