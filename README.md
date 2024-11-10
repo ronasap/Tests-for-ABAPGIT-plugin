@@ -2,7 +2,7 @@
 Push  ABAP Source Code from a SAP BTP, ABAP environment instance or otherwise from SAP on-Premise system to a GitHub repository using the ADT plugin for abapGit.
 USED TUTORIALS:
 
-1.https://developers about BTP.sap.com/tutorials/abap-environment-abapgit.html -
+1.https://developers.sap.com/tutorials/abap-environment-abapgit.html -
 Use abapGit to Transfer Your On-Premise ABAP Source Code to the Cloud
 
 
