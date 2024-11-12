@@ -11,7 +11,7 @@ Push Your ABAP Source Code from SAP BTP, ABAP Environment to a GitHub Repository
 
 
 IMPORTANT!!!
-the known issue :
+the wll known issue :
  see the text below (from the site github.blog):
  
 Beginning August 13, 2021, we will no longer accept account passwords when authenticating Git operations and will require the use of token-based authentication, such as a personal access token (for developers) or an OAuth or GitHub App installation token (for integrators) for all authenticated Git operations on GitHub.com.
@@ -20,7 +20,7 @@ The excellent tutorial how to create a personal token from github was found here
 https://youtu.be/pEY5I29pIak
 (in the part of video)https://youtu.be/pEY5I29pIak?t=335
 
-also don't miss an important step in tutorial https://developers.sap.com/tutorials/abap-environment-abapgit-transfer..html:
+also don't dismiss an important step in tutorial https://developers.sap.com/tutorials/abap-environment-abapgit-transfer.html:
 Generate a personal access token in GitHub, here : https://github.com/settings/tokens
 
 
