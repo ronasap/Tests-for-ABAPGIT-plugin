@@ -10,10 +10,12 @@ CLASS zcl_testsimpleclass_btp DEFINITION
   PRIVATE SECTION.
 ENDCLASS.
 
-CLASS zcl_testsimpleclass_btp IMPLEMENTATION.
+
+
+CLASS ZCL_TESTSIMPLECLASS_BTP IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
-  out->write( 'I am here! The message was changed' ).
+  out->write( 'I am here! The message was changed. I am the best!' ).
   ENDMETHOD.
 ENDCLASS.
